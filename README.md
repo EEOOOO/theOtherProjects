@@ -45,8 +45,34 @@
 ## DeapLearning Team Project
 
 - Image classification을 위한 CNN 모델 개발하였습니다. (CIFAR-10 DataSet을 이용하였습니다.)
+</br>
+  1. CNN모델을 일차적으로 구현했습니다.
+
+
+    - 자료조사를 통해 Activation Function | Pooling | Optimizer | Loss Function 에 적절한 방식을 유추하고 채택했습니다.
+    
+    - 추가적으로 Data Augmentation과 Batch Normalization의 과정에서 우리 문제에 적합하도록 변수를 실험하여 조정했습니다.
+    
+  2. 해당 모델의 Epoch의 개수, Batch Size, Layer 의 개수를 조절하며 train 정확도와 test정확도를 비교해 최종모델을 도출했습니다
+
+
+    - Epoch: 전체 트레이닝 셋이 신경망을 통과하는 횟수를 의미합니다.
+    
+    - Batch Size: 전체 트레이닝 셋을 소그룹으로 나눴을 때 각각에 속하는 데이터의 수를 의미하게 합니다.
+    
+    - Layer: 신경망 레이어 수입니다.
+    
+    
+    
 - Intermediate feature space와 Class Activation model을 가시화하였습니다.
+    모델의 accuracy를 판단하기 위해 Class ACctivation model을 구현해 실험했습니다.
+    해당 자료에서는 epoch를 기준으로 한 변화를 보입니다.
+    요소 변화에 따라 분류 정확도를 더욱 직관적으로 파악이 가능했습니다.
+    
+    
+    
 - 최종적으로 Image classification과정을 통해 모델을 검증하였습니다.
+    해당 모델이 Image Classification을 하는 과정을 보이고, 우리 모델에서 정확도 부분에 가장 영향을 준 요소를 중심으로 결론에 대해 토의하며 마무리했습니다.
 
 </br>
 </br>
