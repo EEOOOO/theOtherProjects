@@ -45,12 +45,14 @@
 
 - Image classification을 위한 CNN 모델 개발하였습니다. (CIFAR-10 DataSet을 이용하였습니다.)
 
+
     1. CNN모델을 일차적으로 구현했습니다.
 
 
       - 자료조사를 통해 Activation Function | Pooling | Optimizer | Loss Function 에 적절한 방식을 유추하고 채택했습니다.
 
       - 추가적으로 Data Augmentation과 Batch Normalization의 과정에서 우리 문제에 적합하도록 변수를 실험하여 조정했습니다.
+      
 
     2. 해당 모델의 Epoch의 개수, Batch Size, Layer 의 개수를 조절하며 train 정확도와 test정확도를 비교해 최종모델을 도출했습니다
 
