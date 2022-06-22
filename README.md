@@ -64,13 +64,17 @@
     
     
 - Intermediate feature space와 Class Activation model을 가시화하였습니다.
+
       - 모델의 accuracy를 판단하기 위해 Class ACctivation model을 구현해 실험했습니다.
+      
       - 해당 자료에서는 epoch를 기준으로 한 변화를 보입니다.
+      
       - 요소 변화에 따라 분류 정확도를 더욱 직관적으로 파악이 가능했습니다.
     
     
     
 - 최종적으로 Image classification과정을 통해 모델을 검증하였습니다.
+
       - 해당 모델이 Image Classification을 하는 과정을 보이고, 우리 모델에서 정확도 부분에 가장 영향을 준 요소를 중심으로 결론에 대해 토의하며 마무리했습니다.
 
 </br>
