@@ -6,6 +6,8 @@
 
 ## GA-TSP Team Project
 
+- 3인 팀 프로젝트 
+
 - 유전 알고리즘 기법(GA)을 활용하여 TSP문제를 해결하고자 하였습니다.
 - 지역적 최적 트리를 이해하고자 하였습니다.
 
@@ -44,6 +46,8 @@
 </br>
 
 ## DeapLearning Team Project
+
+- 3인 팀 
 
 - Image classification을 위한 CNN 모델 개발하였습니다. (CIFAR-10 DataSet을 이용하였습니다.)
 
