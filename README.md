@@ -47,7 +47,7 @@
 
 ## DeapLearning Team Project
 
-- 3인 팀 
+- 3인 팀 프로젝트
 
 - Image classification을 위한 CNN 모델 개발하였습니다. (CIFAR-10 DataSet을 이용하였습니다.)
 
