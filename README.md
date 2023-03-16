@@ -88,6 +88,21 @@
 </br>
 </br>
 
+## Distributed Computing and Big data Analysis
+
+- 팀 프로젝트
+
+- R 프로그래밍과 HDFS 실습 프로젝트
+
+- 뉴욕 택시 빅데이터만 주어진 과제였습니다.
+
+- 주제 선정 - 프로그래밍 - 결론 도출까지의 과정 진행했습니다.
+
+
+</br>
+</br>
+
+
 ## UI/UX Project
 
 - 개인 프로젝트
